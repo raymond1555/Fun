@@ -1,0 +1,39 @@
+body{
+background-color: black;
+}
+h1{
+    color: crimson;
+    font-size: 75px;
+}
+h2{
+    color: blueviolet;
+    font-size: 30px;
+    padding: 30px;
+}
+p{
+    color: purple;
+    font-size: 20px
+}
+ul{
+    list-style-type: none;
+    margin: -10px;
+    padding: -10px;
+    overflow: hidden;
+}
+li{
+    display: inline-block;
+    margin: 0px;
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(4, 0, 247);
+    font-size: 30px;
+}
+a:hover{
+    color: rgb(0, 216, 76);
+    background-color: none;
+    border-bottom: 4px solid  gold ;
+   text-decoration: underline ;
+}
+  
